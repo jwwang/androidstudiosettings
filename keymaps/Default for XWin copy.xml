@@ -5,6 +5,7 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="CheckinProject" />
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -14,6 +15,7 @@
   <action id="EditorSelectWord" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
