@@ -12,16 +12,21 @@
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="EditorSelectWord" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="GotoTypeDeclaration" />
   <action id="MethodDown" />
+  <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="MethodUp" />
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="NextTab" />
+  <action id="OverrideMethods" />
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
