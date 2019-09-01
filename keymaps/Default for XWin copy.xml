@@ -1,0 +1,32 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="EditorSelectWord" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="GotoTypeDeclaration" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="NextTab" />
+  <action id="PreviousOccurence">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="PreviousTab" />
+  <action id="ShowContent" />
+  <action id="XDebugger.MoveWatchDown" />
+  <action id="XDebugger.MoveWatchUp" />
+</keymap>

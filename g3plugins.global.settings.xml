@@ -1,0 +1,14 @@
+<application>
+  <component name="G3PluginsGlobalSettings">
+    <appliedSettings>
+      <entry key="AutoSaveWhenIdle" value="true" />
+      <entry key="DisableKotlinPlugin3" value="true" />
+      <entry key="DisableOverridingIdeShortcuts" value="true" />
+      <entry key="DisableSafeWrite" value="true" />
+      <entry key="IgnorePipertmpFiles" value="true" />
+      <entry key="ReopenLastProjectOnStartup" value="true" />
+      <entry key="SwigAsTextFileTypeAssociation" value="true" />
+      <entry key="SynchronizeFilesOnFrameActivation" value="true" />
+    </appliedSettings>
+  </component>
+</application>
