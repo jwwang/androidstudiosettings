@@ -5,6 +5,9 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -12,21 +15,30 @@
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="EditorSelectWord" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="GotoTypeDeclaration" />
   <action id="MethodDown" />
+  <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="MethodUp" />
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="NextTab" />
+  <action id="OverrideMethods" />
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="PreviousTab" />
   <action id="ShowContent" />
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.MoveWatchUp" />
 </keymap>
