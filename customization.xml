@@ -20,11 +20,6 @@
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Github.Open.In.Browser" is_group="true" action_type="-1" position="26">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="XmlGenerateToolsGroup" is_group="true" action_type="-1" position="25">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -133,11 +128,6 @@
     <group value="EditorPasteSimple" is_action="true" action_type="-1" position="9">
       <path value="root" />
       <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="PasteMultiple" is_action="true" action_type="-1" position="8">
@@ -256,6 +246,16 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Vcs.ShowTabbedFileHistory" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Android.RunAndroidAvdManager" is_action="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Android.RunAndroidSdkManager" is_action="true" action_type="1" position="15">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
