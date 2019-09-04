@@ -50,22 +50,12 @@
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="20">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="$SearchWeb" is_action="true" action_type="-1" position="19">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Blaze.PerFileContextMenu" is_group="true" action_type="-1" position="18">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="17">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
@@ -98,6 +88,11 @@
     <group value="SearchEverywhere" is_action="true" action_type="-1" position="13">
       <path value="root" />
       <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="13">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="CodesearchSearchAction" is_action="true" action_type="-1" position="12">
@@ -258,6 +253,16 @@
     <group value="Vcs.ShowTabbedFileHistory" is_action="true" action_type="1" position="12">
       <path value="root" />
       <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Blaze.CopyGoogle3RelativePath" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CopyPaths" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
