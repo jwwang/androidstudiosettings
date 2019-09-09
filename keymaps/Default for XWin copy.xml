@@ -18,6 +18,7 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
+  <action id="FindInPath" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
@@ -34,6 +35,9 @@
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="PreviousTab" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
   <action id="ShowContent" />
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="ctrl t" />
