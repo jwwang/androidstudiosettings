@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../services/core/java/com/android/server/PackageWatchdog.java [base]'" />
     <option name="defaultScopeName" value="File '.../services/core/java/com/android/server/PackageWatchdog.java [base]'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../services/core/java/com/android/server/PackageWatchdog.java [base]'" />
   </component>
 </application>
