@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../services/core/java/com/android/server/PackageWatchdog.java [base]'" />
-    <option name="defaultScopeName" value="File '.../services/core/java/com/android/server/PackageWatchdog.java [base]'" />
-    <option name="SEARCH_SCOPE" value="File '.../services/core/java/com/android/server/PackageWatchdog.java [base]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
