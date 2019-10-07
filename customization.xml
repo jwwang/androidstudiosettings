@@ -20,11 +20,6 @@
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Github.Open.In.Browser" is_group="true" action_type="-1" position="26">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="XmlGenerateToolsGroup" is_group="true" action_type="-1" position="25">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -60,22 +55,17 @@
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Blaze.MainToolBarActionGroup" is_group="true" action_type="-1" position="16">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="EditorPopupMenu3" is_group="true" action_type="-1" position="16">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="tasks.toolbar.group" is_group="true" action_type="-1" position="15">
+    <group value="GoogleLogin.LoginService" is_action="true" action_type="-1" position="15">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="GoogleLogin.LoginService" is_action="true" action_type="-1" position="14">
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="14">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -85,7 +75,7 @@
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="SearchEverywhere" is_action="true" action_type="-1" position="13">
+    <group value="CodesearchSearchAction" is_action="true" action_type="-1" position="13">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -95,7 +85,7 @@
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CodesearchSearchAction" is_action="true" action_type="-1" position="12">
+    <group value="RunAnything" is_action="true" action_type="-1" position="12">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -128,11 +118,6 @@
     <group value="EditorPasteSimple" is_action="true" action_type="-1" position="9">
       <path value="root" />
       <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="PasteMultiple" is_action="true" action_type="-1" position="8">
@@ -260,6 +245,11 @@
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="SearchEverywhere" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="CopyPaths" is_action="true" action_type="1" position="13">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -268,6 +258,11 @@
     <group value="RenameElement" is_action="true" action_type="1" position="14">
       <path value="root" />
       <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidConnectDebuggerAction" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ReformatCode" is_action="true" action_type="1" position="15">
