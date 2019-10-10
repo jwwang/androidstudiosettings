@@ -12,20 +12,35 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="DecrementWindowHeight" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
-  <action id="EditorSelectWord" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="FindInPath" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="GotoTypeDeclaration" />
+  <action id="IncrementWindowHeight" />
   <action id="MethodDown" />
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="MethodUp" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
@@ -38,11 +53,14 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="ShowContent" />
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="UpdateRunningApplication" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.MoveWatchUp" />
