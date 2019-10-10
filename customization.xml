@@ -255,27 +255,32 @@
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Blaze.CopyGoogle3RelativePath" is_action="true" action_type="1" position="12">
+    <group value="HighlightUsagesInFile" is_action="true" action_type="1" position="11">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CopyPaths" is_action="true" action_type="1" position="13">
+    <group value="Blaze.CopyGoogle3RelativePath" is_action="true" action_type="1" position="13">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RenameElement" is_action="true" action_type="1" position="14">
+    <group value="CopyPaths" is_action="true" action_type="1" position="14">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ReformatCode" is_action="true" action_type="1" position="15">
+    <group value="RenameElement" is_action="true" action_type="1" position="15">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="GenerateJavadoc" is_action="true" action_type="1" position="16">
+    <group value="ReformatCode" is_action="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GenerateJavadoc" is_action="true" action_type="1" position="17">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
