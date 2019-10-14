@@ -15,6 +15,8 @@
   <action id="DecrementWindowHeight" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
@@ -44,12 +46,16 @@
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
-  <action id="NextTab" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
   <action id="OverrideMethods" />
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
-  <action id="PreviousTab" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
