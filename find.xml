@@ -3,7 +3,11 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="File '~/codebase/master/frameworks/base/services/core/java/com/android/server/rollback/RollbackManagerServiceImpl.java [AndroidMaster]'" />
     <option name="defaultScopeName" value="File '~/codebase/master/frameworks/base/services/core/java/com/android/server/rollback/RollbackManagerServiceImpl.java [AndroidMaster]'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '~/codebase/master/frameworks/base/services/core/java/com/android/server/rollback/RollbackManagerServiceImpl.java [AndroidMaster]'" />
   </component>
 </application>
