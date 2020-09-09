@@ -1,9 +1,5 @@
 <application>
   <component name="UISettings">
-    <option name="MAX_LOOKUP_LIST_HEIGHT" value="23" />
-    <option name="MAX_LOOKUP_WIDTH2" value="895" />
-    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
-    <option name="SHOW_NAVIGATION_BAR" value="false" />
   </component>
 </application>
