@@ -1,0 +1,6 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="FindInPath" />
+</keymap>
