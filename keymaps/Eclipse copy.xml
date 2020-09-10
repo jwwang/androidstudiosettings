@@ -1,9 +1,23 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="FindInPath" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="PreviousOccurence">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="ShowContent" />
+  <action id="ShowSearchHistory" />
   <action id="UpdateRunningApplication" />
+  <action id="UsageView.ShowRecentFindUsages" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
