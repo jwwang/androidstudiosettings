@@ -8,6 +8,9 @@
   <action id="FindInPath" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
@@ -16,6 +19,9 @@
   </action>
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="android.deploy.ApplyChanges">
