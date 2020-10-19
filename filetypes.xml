@@ -5,8 +5,6 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="db-journal" type="PLAIN_TEXT" />
-      <mapping ext="db" type="SQL" />
-      <removed_mapping ext="db" type="SqlDelight Database" />
     </extensionMap>
   </component>
 </application>
