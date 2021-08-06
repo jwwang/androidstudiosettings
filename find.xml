@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../tests/RollbackTest/RollbackTest/src/com/android/tests/rollback/RollbackTest.java [base]'" />
-    <option name="defaultScopeName" value="File '.../tests/RollbackTest/RollbackTest/src/com/android/tests/rollback/RollbackTest.java [base]'" />
-    <option name="SEARCH_SCOPE" value="File '.../tests/RollbackTest/RollbackTest/src/com/android/tests/rollback/RollbackTest.java [base]'" />
+    <option name="customScope" value="File '~/codebase2/master2/cts/tests/rollback/src/com/android/cts/rollback/RollbackManagerTest.java [cts]'" />
+    <option name="defaultScopeName" value="File '~/codebase2/master2/cts/tests/rollback/src/com/android/cts/rollback/RollbackManagerTest.java [cts]'" />
+    <option name="SEARCH_SCOPE" value="File '~/codebase2/master2/cts/tests/rollback/src/com/android/cts/rollback/RollbackManagerTest.java [cts]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
