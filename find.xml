@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '~/codebase2/master2/cts/tests/rollback/src/com/android/cts/rollback/RollbackManagerTest.java [cts]'" />
     <option name="defaultScopeName" value="File '~/codebase2/master2/cts/tests/rollback/src/com/android/cts/rollback/RollbackManagerTest.java [cts]'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '~/codebase2/master2/cts/tests/rollback/src/com/android/cts/rollback/RollbackManagerTest.java [cts]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
