@@ -8,7 +8,6 @@
             <value value="0.0.0.0:6520" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-08-17T01:50:32.348772Z" />
         <name value="Google Cuttlefish GMS x86_64" />
         <target value="Android API 34" />
         <api value="UpsideDownCake" />
