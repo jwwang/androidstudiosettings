@@ -5,13 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="03021FQC200399" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4a" />
+        <target value="Android API 34" />
+        <api value="androidversion:33:UpsideDownCake:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="0.0.0.0:6520" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-08-23T03:45:51.436639Z" />
         <name value="Google Cuttlefish GMS x86_64" />
         <target value="Android API 34" />
-        <api value="UpsideDownCake" />
+        <api value="androidversion:0:UpsideDownCake:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
