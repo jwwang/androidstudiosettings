@@ -1,15 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="PackageFile" is_action="true" action_type="-1" position="28">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RemoveBom.Group" is_group="true" action_type="-1" position="27">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="ChangeTemplateDataLanguage" is_action="true" action_type="-1" position="26">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -20,132 +10,27 @@
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Github.Open.In.Browser" is_group="true" action_type="-1" position="24">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Gradle.ImportExternalProject" is_action="true" action_type="-1" position="23">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="XmlGenerateToolsGroup" is_group="true" action_type="-1" position="22">
+    <group seperator="true" action_type="-1" position="16">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CompareClipboardWithSelection" is_action="true" action_type="-1" position="21">
+    <group seperator="true" action_type="-1" position="14">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="EditorLangPopupMenu" is_group="true" action_type="-1" position="20">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="19">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="$SearchWeb" is_action="true" action_type="-1" position="18">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="EditorPopupMenu3" is_group="true" action_type="-1" position="16">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="tasks.toolbar.group" is_group="true" action_type="-1" position="15">
+    <group value="Android.MainToolBarActionGroup" is_group="true" action_type="-1" position="9">
       <path value="root" />
       <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="15">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="GoogleLogin.LoginService" is_action="true" action_type="-1" position="14">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="EditorPopupMenu2" is_group="true" action_type="-1" position="14">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="13">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunAnything" is_action="true" action_type="-1" position="12">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="EditorPopupMenu1" is_group="true" action_type="-1" position="12">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="11">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="EditorToggleColumnMode" is_action="true" action_type="-1" position="10">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="EditorPasteSimple" is_action="true" action_type="-1" position="9">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PasteMultiple" is_action="true" action_type="-1" position="8">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="$Paste" is_action="true" action_type="-1" position="7">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="JsonCopyPointer" is_action="true" action_type="-1" position="6">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CopyReference" is_action="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="CopyAsRichText" is_action="true" action_type="-1" position="4">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CopyAsPlainText" is_action="true" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="$Copy" is_action="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="$Cut" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
@@ -170,14 +55,14 @@
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CopyReferencePopup" is_action="true" action_type="1" position="4">
+    <group value="RenameElement" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RenameElement" is_action="true" action_type="1" position="5">
+    <group value="ShowProjectStructureSettings" is_action="true" action_type="1" position="10">
       <path value="root" />
-      <path value="Editor Popup Menu" />
+      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="1" position="13">
