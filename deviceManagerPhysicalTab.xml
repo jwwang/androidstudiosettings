@@ -9,7 +9,7 @@
           </Key>
         </key>
         <name value="Google Pixel 4a" />
-        <target value="Android API 34" />
+        <target value="Android VanillaIceCream Preview" />
         <api value="androidversion:33:VanillaIceCream:null:true" />
       </PhysicalDevice>
     </physicalDevices>
