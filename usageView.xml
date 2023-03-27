@@ -8,6 +8,7 @@
     <option name="FLATTEN_MODULES" value="false" />
   </component>
   <component name="UsageViewSettings">
+    <option name="GROUP_BY_DIRECTORY_STRUCTURE" value="true" />
     <option name="GROUP_BY_FILE_STRUCTURE" value="false" />
     <option name="GROUP_BY_MODULE" value="false" />
     <option name="GROUP_BY_PACKAGE" value="false" />
