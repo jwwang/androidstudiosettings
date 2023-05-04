@@ -8,9 +8,9 @@
             <value value="03021FQC200399" />
           </Key>
         </key>
-        <name value="Google Pixel 4a" />
+        <name value="Google AOSP on sunfish" />
         <target value="Android VanillaIceCream Preview" />
-        <api value="androidversion:34:VanillaIceCream:null:true" />
+        <api value="androidversion:33:VanillaIceCream:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
