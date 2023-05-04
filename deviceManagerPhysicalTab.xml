@@ -8,7 +8,7 @@
             <value value="03021FQC200399" />
           </Key>
         </key>
-        <name value="Google AOSP on sunfish" />
+        <name value="Device" />
         <target value="Android VanillaIceCream Preview" />
         <api value="androidversion:33:VanillaIceCream:null:true" />
       </PhysicalDevice>
