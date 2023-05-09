@@ -8,9 +8,9 @@
             <value value="03021FQC200399" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android VanillaIceCream Preview" />
-        <api value="androidversion:33:VanillaIceCream:null:true" />
+        <name value="Google Pixel 4a" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
