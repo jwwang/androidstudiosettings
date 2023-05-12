@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="05131FQCB00033" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4a (5G)" />
+        <target value="Android VanillaIceCream Preview" />
+        <api value="androidversion:34:VanillaIceCream:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="03021FQC200399" />
           </Key>
         </key>
