@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="OWNERS" type="PLAIN_TEXT" />
       <mapping ext="db-journal" type="PLAIN_TEXT" />
+      <mapping ext="bp" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="rs" approved="true" type="Rust" />
