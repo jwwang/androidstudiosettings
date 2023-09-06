@@ -10,7 +10,5 @@
     <entry key="ide.instant.shutdown" value="false" />
     <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
-    <entry key="ide.experimental.ui" value="false" />
-    <entry key="ide.experimental.ui.inter.font" value="false" />
   </component>
 </application>
