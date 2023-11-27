@@ -2,9 +2,15 @@
   <component name="G3PluginsGlobalSettings">
     <appliedSettings>
       <entry key="AutoSaveWhenIdle" value="true" />
+      <entry key="DisableCodeWithMePlugin4" value="true" />
+      <entry key="DisableIjCidrBase" value="true" />
+      <entry key="DisableIjClangdPlugin" value="true" />
+      <entry key="DisableIjCompletionMlRanking" value="true" />
       <entry key="DisableKotlinPlugin3" value="true" />
       <entry key="DisableOverridingIdeShortcuts" value="true" />
       <entry key="DisableSafeWrite" value="true" />
+      <entry key="EnableProtoeditorPlugin" value="true" />
+      <entry key="EnableUseInstanceOfOnEqualsCodeGeneration" value="true" />
       <entry key="IdeaMaxIntellisenseFilesize" value="true" />
       <entry key="IgnorePipertmpFiles" value="true" />
       <entry key="ReopenLastProjectOnStartup" value="true" />
