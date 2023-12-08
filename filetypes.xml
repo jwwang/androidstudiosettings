@@ -16,12 +16,9 @@
       <mapping ext="gwsq" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="blueprint" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dex" approved="true" type="DEX" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="rs" approved="true" type="Rust" />
       <removed_mapping ext="rs" approved="true" type="Rust" />
       <mapping ext="amr" type="Binary File" />
       <mapping ext="arsc" type="Binary File" />
@@ -32,7 +29,6 @@
       <mapping ext="columnio" type="Binary File" />
       <mapping ext="dat" type="Binary File" />
       <mapping ext="data" type="Binary File" />
-      <mapping ext="dex" type="Binary File" />
       <mapping ext="fst" type="Binary File" />
       <mapping ext="keystore" type="Binary File" />
       <mapping ext="louds" type="Binary File" />
