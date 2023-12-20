@@ -2,7 +2,7 @@
   <component name="BlazeWizardUserSettings">
     <settings>
       <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/wangchun/fig-youtube-music/google3::/google/src/cloud/wangchun/fig-recorder-buffer-opt/google3::/google/src/cloud/wangchun/fig-recorder-buffer-factor/google3::/google/src/cloud/wangchun/fig-recorder-vsync-executor/google3::/google/src/cloud/wangchun/fig-recorder-vsync/google3" />
-      <entry key="generate-from-build-file.last-workspace-path" value="third_party/java_src/android_libs/media/BUILD" />
+      <entry key="generate-from-build-file.last-workspace-path" value="java/com/google/android/libraries/youtube/BUILD" />
       <entry key="select-project-view.selected-option" value="generate-from-build-file" />
       <entry key="select-workspace.selected-option" value="fig-on-citc-workspace-type" />
     </settings>
