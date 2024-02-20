@@ -34,7 +34,6 @@
       <mapping ext="amr" type="Binary File" />
       <mapping ext="mmap" type="Binary File" />
       <mapping ext="pumpkin" type="Binary File" />
-      <removed_mapping ext="dex" type="DEX" />
       <mapping pattern="DESCRIPTION" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
@@ -50,6 +49,7 @@
       <mapping ext="workflow" type="prototext" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="blueprint" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dex" approved="true" type="DEX" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="rs" approved="true" type="Rust" />
     </extensionMap>
