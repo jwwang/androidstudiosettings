@@ -9,5 +9,7 @@
     <entry key="ide.instant.shutdown" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.experimental.ui" value="false" />
+    <entry key="debugger.new.tool.window.layout" value="false" />
+    <entry key="idea.plugins.compatible.build" value="" />
   </component>
 </application>
