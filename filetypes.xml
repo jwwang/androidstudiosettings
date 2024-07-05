@@ -4,6 +4,7 @@
     <extensionMap>
       <removed_mapping ext="rs" type="Android RenderScript" />
       <mapping pattern="Android.bp" type="JSON-lines" />
+      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="rs" type="Rust" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
