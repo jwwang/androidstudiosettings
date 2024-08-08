@@ -50,11 +50,9 @@
       <mapping ext="zan" type="prototext" />
       <mapping ext="workflow" type="prototext" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="blueprint" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dex" approved="true" type="DEX" />
       <removed_mapping ext="proto" approved="true" type="protobuf" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <removed_mapping ext="rs" approved="true" type="Rust" />
