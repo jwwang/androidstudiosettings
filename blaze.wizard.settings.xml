@@ -2,7 +2,7 @@
   <component name="BlazeWizardUserSettings">
     <settings>
       <entry key="blaze-wizard.last-imported-workspace" value="/google/src/cloud/wangchun/fig-tiktok/google3::/google/src/cloud/wangchun/fig-pixelmigrate/google3::/google/src/cloud/wangchun/fig-gauth/google3::/google/src/cloud/wangchun/remote-repair/google3::/google/src/cloud/wangchun/fig-recorder-animation/google3::/google/src/cloud/wangchun/fig-youtube-music/google3::/google/src/cloud/wangchun/fig-recorder-buffer-opt/google3::/google/src/cloud/wangchun/fig-recorder-buffer-factor/google3" />
-      <entry key="generate-from-build-file.last-workspace-path" value="experimental/users/wangchun/apps/tiktokexample/BUILD" />
+      <entry key="generate-from-build-file.last-workspace-path" value="java/com/google/android/apps/tiktokexample/BUILD" />
       <entry key="select-project-view.selected-option" value="generate-from-build-file" />
       <entry key="select-workspace.selected-option" value="fig-on-citc-workspace-type" />
     </settings>
