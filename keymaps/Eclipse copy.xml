@@ -1,0 +1,43 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivateTransformCodeToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
+  <action id="FindInPath" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift ctrl insert" />
+  </action>
+  <action id="PreviousOccurence">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="ShowContent" />
+  <action id="ShowSearchHistory" />
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="UsageView.ShowRecentFindUsages" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+  <action id="android.device.screen.record" />
+</keymap>
