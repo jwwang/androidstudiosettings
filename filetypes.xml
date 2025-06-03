@@ -1,6 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="19">
-    <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.mypy_cache;.pipertmp-*;.pytest_cache;.ruff_cache;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.iml;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.mypy_cache;.pytest_cache;.ruff_cache;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping ext="srcjar" type="ARCHIVE" />
       <mapping ext="dex" type="Binary File" />
@@ -14,8 +14,8 @@
       <mapping ext="syms" type="Binary File" />
       <mapping ext="pbz" type="Binary File" />
       <mapping ext="pcm" type="Binary File" />
-      <mapping ext="awb" type="Binary File" />
       <mapping ext="wav" type="Binary File" />
+      <mapping ext="awb" type="Binary File" />
       <mapping ext="mp4" type="Binary File" />
       <mapping ext="mp3" type="Binary File" />
       <mapping ext="bin" type="Binary File" />
@@ -34,16 +34,17 @@
       <mapping ext="amr" type="Binary File" />
       <mapping ext="mmap" type="Binary File" />
       <mapping ext="pumpkin" type="Binary File" />
+      <mapping pattern="Android.bp" type="JSON-lines" />
       <mapping pattern="DESCRIPTION" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="OWNERS" type="PLAIN_TEXT" />
       <mapping ext="input" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
-      <mapping ext="swig" type="PLAIN_TEXT" />
       <mapping ext="golden" type="PLAIN_TEXT" />
       <mapping ext="gwsq" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
+      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping pattern="METADATA" type="prototext" />
       <mapping ext="metadata" type="prototext" />
       <mapping ext="zan" type="prototext" />
@@ -51,7 +52,11 @@
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="blueprint" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dex" approved="true" type="DEX" />
+      <removed_mapping ext="proto" approved="true" type="protobuf" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
+      <removed_mapping ext="rs" approved="true" type="Rust" />
+      <removed_mapping pattern="Android.bp" approved="true" type="JSON" />
     </extensionMap>
   </component>
 </application>
