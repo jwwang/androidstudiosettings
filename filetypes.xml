@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="19">
     <ignoreFiles list="*.iml;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.mypy_cache;.pytest_cache;.ruff_cache;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping ext="srcjar" type="ARCHIVE" />
@@ -14,8 +14,8 @@
       <mapping ext="syms" type="Binary File" />
       <mapping ext="pbz" type="Binary File" />
       <mapping ext="pcm" type="Binary File" />
-      <mapping ext="wav" type="Binary File" />
       <mapping ext="awb" type="Binary File" />
+      <mapping ext="wav" type="Binary File" />
       <mapping ext="mp4" type="Binary File" />
       <mapping ext="mp3" type="Binary File" />
       <mapping ext="bin" type="Binary File" />
