@@ -1,0 +1,17 @@
+<application>
+  <component name="AiPluginSettings">
+    <option name="gcpProjectByEmail">
+      <map>
+        <entry key="wangchun@google.com">
+          <value>
+            <GcpProjectSettings>
+              <option name="gcpProjectId" value="subzero-437207" />
+              <option name="gcpProjectName" value="SubZero" />
+            </GcpProjectSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastLoggedInEmail" value="wangchun@google.com" />
+  </component>
+</application>
