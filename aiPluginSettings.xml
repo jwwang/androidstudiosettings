@@ -1,5 +1,6 @@
 <application>
   <component name="AiPluginSettings">
+    <option name="composeEnabled" value="true" />
     <option name="gcpProjectByEmail">
       <map>
         <entry key="wangchun@google.com">
@@ -12,6 +13,7 @@
         </entry>
       </map>
     </option>
+    <option name="gotItToolTipsShown" value="true" />
     <option name="lastLoggedInEmail" value="wangchun@google.com" />
   </component>
 </application>
