@@ -2,6 +2,7 @@
   <component name="StudioBotSettings">
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1751447809644">generate its build rules for kotlin</historyEntry>
         <historyEntry timestamp="1751447734131">generate a proto under axel/proto to define a message containing a string and a boolean</historyEntry>
       </list>
     </option>
