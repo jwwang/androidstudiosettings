@@ -2,7 +2,7 @@
   <component name="StudioBotSettings">
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1751335855998">Scan the code in this folder to find out potential improvements.</historyEntry>
+        <historyEntry timestamp="1751447734131">generate a proto under axel/proto to define a message containing a string and a boolean</historyEntry>
       </list>
     </option>
   </component>
