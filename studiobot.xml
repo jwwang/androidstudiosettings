@@ -1,5 +1,6 @@
 <application>
   <component name="StudioBotSettings">
+    <option name="contextSharingModeV2" value="AlwaysShare" />
     <option name="queryHistory">
       <list>
         <historyEntry timestamp="1751678583914">Help improve this 'onError' function</historyEntry>
