@@ -3,6 +3,38 @@
     <option name="contextSharingModeV2" value="AlwaysShare" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1755949700377">Make suggestions to improve this code:
+```kotlin
+/**
+ * Gets the top apps from a list of [RankingCluster] based on the ranking scores.
+ *
+ * @param maxCount The maximum number of apps to return.
+ * @param allowedApps The set of allowed apps.
+ * @param allowedCategories The list of allowed categories.
+ * @return A list of package names of the top apps.
+ */
+fun List&lt;RankingCluster&gt;.getTopApps(
+  maxCount: Int,
+  allowedApps: Set&lt;String&gt;,
+  allowedCategories: List&lt;Category&gt;,
+): List&lt;String&gt; =
+  flatMap {
+      if (it.carouselType == CarouselType.CONTINUATION) {
+        it.items
+      } else {
+        // For single recommendation carousels, all items have the same package. It is
+        // sufficient to pick only the 1st.
+        // For mixed recommendation carousels, later items are less significant and prone to
+        // be discarded. Only pick the 1st for calculating top apps.
+        it.items.take(1)
+      }
+    }
+    .filter { it.packageName in allowedApps &amp;&amp; it.category in allowedCategories }
+    .distinctBy { it.packageName }
+    .sortedByDescending { it.rankingScore }
+    .take(maxCount)
+    .map { it.packageName }
+```</historyEntry>
         <historyEntry timestamp="1751678583914">Help improve this 'onError' function</historyEntry>
       </list>
     </option>
