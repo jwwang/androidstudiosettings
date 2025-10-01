@@ -3,6 +3,8 @@
     <option name="contextSharingModeV2" value="AlwaysShare" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1759303850607">How to fix &quot;Nesting LazyColumn inside another vertically scrolling layout&quot;</historyEntry>
+        <historyEntry timestamp="1759303567547">I encounter this error message: &quot;E AndroidRuntime: java.lang.IllegalStateException: Vertically scrollable component was measured with an infinity maximum height constraints, which is disallowed. One of the common reasons is nesting layouts like LazyColumn and Column(Modifier.verticalScroll()). If you want to add a header before the list of items please add a header as a separate item() before the main items() inside the LazyColumn scope. There could be other reasons for this to happen: your ComposeView was added into a LinearLayout with some weight, youapplied Modifier.wrapContentSize(unbounded = true) or wrote a custom layout. Please try to remove the source of infinite constraints in the hierarchy above the scrolling container.&quot;. Try to debug the code.</historyEntry>
         <historyEntry timestamp="1757309516258">hello</historyEntry>
         <historyEntry timestamp="1757309451638">Hello</historyEntry>
         <historyEntry timestamp="1755949700377">Make suggestions to improve this code:
