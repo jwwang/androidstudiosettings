@@ -4,6 +4,9 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1761702298647">any better way to calculate the number of common elements between 2 sets?</historyEntry>
+        <historyEntry timestamp="1761702188216">explain the code 'memoryKeywordsSet.intersect'</historyEntry>
+        <historyEntry timestamp="1761702181334">Check the error of this file</historyEntry>
         <historyEntry timestamp="1759303850607">How to fix &quot;Nesting LazyColumn inside another vertically scrolling layout&quot;</historyEntry>
         <historyEntry timestamp="1759303567547">I encounter this error message: &quot;E AndroidRuntime: java.lang.IllegalStateException: Vertically scrollable component was measured with an infinity maximum height constraints, which is disallowed. One of the common reasons is nesting layouts like LazyColumn and Column(Modifier.verticalScroll()). If you want to add a header before the list of items please add a header as a separate item() before the main items() inside the LazyColumn scope. There could be other reasons for this to happen: your ComposeView was added into a LinearLayout with some weight, youapplied Modifier.wrapContentSize(unbounded = true) or wrote a custom layout. Please try to remove the source of infinite constraints in the hierarchy above the scrolling container.&quot;. Try to debug the code.</historyEntry>
         <historyEntry timestamp="1757309516258">hello</historyEntry>
