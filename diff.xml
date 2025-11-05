@@ -34,8 +34,8 @@
               <option value="com.intellij.diff.tools.combined.CombinedUnifiedDiffTool" />
               <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool.Unified" />
               <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool.SideBySide" />
-              <option value="com.android.studio.ml.bot.diff.diffviewers.BotSplitViewDiffTool" />
               <option value="com.android.studio.ml.bot.diff.diffviewers.BotUnifiedDiffTool" />
+              <option value="com.android.studio.ml.bot.diff.diffviewers.BotSplitViewDiffTool" />
             </list>
           </option>
         </PlaceSettings>
