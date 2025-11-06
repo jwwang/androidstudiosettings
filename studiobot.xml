@@ -4,6 +4,9 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1762400551626">what's the purpose to create a new coroutine scope using 'coroutineScope {}' inside a suspend function</historyEntry>
+        <historyEntry timestamp="1762400508173">explain the execute() function</historyEntry>
+        <historyEntry timestamp="1762400402467">explain the code at line #136</historyEntry>
         <historyEntry timestamp="1761702298647">any better way to calculate the number of common elements between 2 sets?</historyEntry>
         <historyEntry timestamp="1761702188216">explain the code 'memoryKeywordsSet.intersect'</historyEntry>
         <historyEntry timestamp="1761702181334">Check the error of this file</historyEntry>
