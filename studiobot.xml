@@ -1,9 +1,16 @@
 <application>
   <component name="StudioBotSettings">
     <option name="contextSharingModeV2" value="AlwaysShare" />
+    <option name="enableCodeCompletion" value="false" />
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1763087069605">document the DebugLogger class</historyEntry>
+        <historyEntry timestamp="1763087013079">document the logAttributes function</historyEntry>
+        <historyEntry timestamp="1763086961054">document the logSpan function</historyEntry>
+        <historyEntry timestamp="1763086921780">document TraceContext</historyEntry>
+        <historyEntry timestamp="1763086896505">document the TraceState class</historyEntry>
+        <historyEntry timestamp="1763086859367">explain this class</historyEntry>
         <historyEntry timestamp="1762400551626">what's the purpose to create a new coroutine scope using 'coroutineScope {}' inside a suspend function</historyEntry>
         <historyEntry timestamp="1762400508173">explain the execute() function</historyEntry>
         <historyEntry timestamp="1762400402467">explain the code at line #136</historyEntry>
