@@ -5,6 +5,8 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1763088551288">document METADATA_KEY_TAG</historyEntry>
+        <historyEntry timestamp="1763088288338">document the tag parameter</historyEntry>
         <historyEntry timestamp="1763087069605">document the DebugLogger class</historyEntry>
         <historyEntry timestamp="1763087013079">document the logAttributes function</historyEntry>
         <historyEntry timestamp="1763086961054">document the logSpan function</historyEntry>
