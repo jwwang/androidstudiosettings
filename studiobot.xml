@@ -5,6 +5,10 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1763434562276">document the logMessage function</historyEntry>
+        <historyEntry timestamp="1763434453389">document the level parameter</historyEntry>
+        <historyEntry timestamp="1763434428436">what is the file path of this file</historyEntry>
+        <historyEntry timestamp="1763434390905">document the level parameter</historyEntry>
         <historyEntry timestamp="1763091400457">document the buildType property</historyEntry>
         <historyEntry timestamp="1763088551288">document METADATA_KEY_TAG</historyEntry>
         <historyEntry timestamp="1763088288338">document the tag parameter</historyEntry>
