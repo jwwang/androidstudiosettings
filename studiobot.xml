@@ -5,62 +5,8 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1763434562276">document the logMessage function</historyEntry>
-        <historyEntry timestamp="1763434453389">document the level parameter</historyEntry>
-        <historyEntry timestamp="1763434428436">what is the file path of this file</historyEntry>
-        <historyEntry timestamp="1763434390905">document the level parameter</historyEntry>
-        <historyEntry timestamp="1763091400457">document the buildType property</historyEntry>
-        <historyEntry timestamp="1763088551288">document METADATA_KEY_TAG</historyEntry>
-        <historyEntry timestamp="1763088288338">document the tag parameter</historyEntry>
-        <historyEntry timestamp="1763087069605">document the DebugLogger class</historyEntry>
-        <historyEntry timestamp="1763087013079">document the logAttributes function</historyEntry>
-        <historyEntry timestamp="1763086961054">document the logSpan function</historyEntry>
-        <historyEntry timestamp="1763086921780">document TraceContext</historyEntry>
-        <historyEntry timestamp="1763086896505">document the TraceState class</historyEntry>
-        <historyEntry timestamp="1763086859367">explain this class</historyEntry>
-        <historyEntry timestamp="1762400551626">what's the purpose to create a new coroutine scope using 'coroutineScope {}' inside a suspend function</historyEntry>
-        <historyEntry timestamp="1762400508173">explain the execute() function</historyEntry>
-        <historyEntry timestamp="1762400402467">explain the code at line #136</historyEntry>
-        <historyEntry timestamp="1761702298647">any better way to calculate the number of common elements between 2 sets?</historyEntry>
-        <historyEntry timestamp="1761702188216">explain the code 'memoryKeywordsSet.intersect'</historyEntry>
-        <historyEntry timestamp="1761702181334">Check the error of this file</historyEntry>
-        <historyEntry timestamp="1759303850607">How to fix &quot;Nesting LazyColumn inside another vertically scrolling layout&quot;</historyEntry>
-        <historyEntry timestamp="1759303567547">I encounter this error message: &quot;E AndroidRuntime: java.lang.IllegalStateException: Vertically scrollable component was measured with an infinity maximum height constraints, which is disallowed. One of the common reasons is nesting layouts like LazyColumn and Column(Modifier.verticalScroll()). If you want to add a header before the list of items please add a header as a separate item() before the main items() inside the LazyColumn scope. There could be other reasons for this to happen: your ComposeView was added into a LinearLayout with some weight, youapplied Modifier.wrapContentSize(unbounded = true) or wrote a custom layout. Please try to remove the source of infinite constraints in the hierarchy above the scrolling container.&quot;. Try to debug the code.</historyEntry>
-        <historyEntry timestamp="1757309516258">hello</historyEntry>
-        <historyEntry timestamp="1757309451638">Hello</historyEntry>
-        <historyEntry timestamp="1755949700377">Make suggestions to improve this code:
-```kotlin
-/**
- * Gets the top apps from a list of [RankingCluster] based on the ranking scores.
- *
- * @param maxCount The maximum number of apps to return.
- * @param allowedApps The set of allowed apps.
- * @param allowedCategories The list of allowed categories.
- * @return A list of package names of the top apps.
- */
-fun List&lt;RankingCluster&gt;.getTopApps(
-  maxCount: Int,
-  allowedApps: Set&lt;String&gt;,
-  allowedCategories: List&lt;Category&gt;,
-): List&lt;String&gt; =
-  flatMap {
-      if (it.carouselType == CarouselType.CONTINUATION) {
-        it.items
-      } else {
-        // For single recommendation carousels, all items have the same package. It is
-        // sufficient to pick only the 1st.
-        // For mixed recommendation carousels, later items are less significant and prone to
-        // be discarded. Only pick the 1st for calculating top apps.
-        it.items.take(1)
-      }
-    }
-    .filter { it.packageName in allowedApps &amp;&amp; it.category in allowedCategories }
-    .distinctBy { it.packageName }
-    .sortedByDescending { it.rankingScore }
-    .take(maxCount)
-    .map { it.packageName }
-```</historyEntry>
-        <historyEntry timestamp="1751678583914">Help improve this 'onError' function</historyEntry>
+        <historyEntry timestamp="1763620072249">document the getAttributes() function</historyEntry>
+        <historyEntry timestamp="1763620050930">explain this file</historyEntry>
       </list>
     </option>
   </component>
