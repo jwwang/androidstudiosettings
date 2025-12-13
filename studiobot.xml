@@ -5,13 +5,9 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1763695317487">suggest what data should be logged using RagDebugLogger in the generateQueryEmbedding() function</historyEntry>
-        <historyEntry timestamp="1763694842401">explain the generateQueryEmbedding()n function</historyEntry>
-        <historyEntry timestamp="1763694824003">explain line #53 in this file</historyEntry>
-        <historyEntry timestamp="1763694812396">explain this file</historyEntry>
-        <historyEntry timestamp="1763694799596">explain line 53</historyEntry>
-        <historyEntry timestamp="1763620072249">document the getAttributes() function</historyEntry>
-        <historyEntry timestamp="1763620050930">explain this file</historyEntry>
+        <historyEntry timestamp="1765615678112">Simplify the funtion: &quot;normalize(expr: TextMatchExpr)&quot;</historyEntry>
+        <historyEntry timestamp="1765615563475">Simplify the function: &quot;normalize(clause: FilterClause)&quot;</historyEntry>
+        <historyEntry timestamp="1765615491899">explain this file</historyEntry>
       </list>
     </option>
   </component>
