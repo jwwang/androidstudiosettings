@@ -5,6 +5,8 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1765620257190">add braces to all if/else statements in normalize functions</historyEntry>
+        <historyEntry timestamp="1765620090122">replace when clauses in normalize functions using if/else</historyEntry>
         <historyEntry timestamp="1765615678112">Simplify the funtion: &quot;normalize(expr: TextMatchExpr)&quot;</historyEntry>
         <historyEntry timestamp="1765615563475">Simplify the function: &quot;normalize(clause: FilterClause)&quot;</historyEntry>
         <historyEntry timestamp="1765615491899">explain this file</historyEntry>
