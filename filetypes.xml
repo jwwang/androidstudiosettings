@@ -14,8 +14,8 @@
       <mapping ext="syms" type="Binary File" />
       <mapping ext="pbz" type="Binary File" />
       <mapping ext="pcm" type="Binary File" />
-      <mapping ext="awb" type="Binary File" />
       <mapping ext="wav" type="Binary File" />
+      <mapping ext="awb" type="Binary File" />
       <mapping ext="mp4" type="Binary File" />
       <mapping ext="mp3" type="Binary File" />
       <mapping ext="bin" type="Binary File" />
@@ -35,10 +35,10 @@
       <mapping ext="mmap" type="Binary File" />
       <mapping ext="pumpkin" type="Binary File" />
       <mapping pattern="Android.bp" type="JSON-lines" />
-      <mapping pattern="DESCRIPTION" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="OWNERS" type="PLAIN_TEXT" />
+      <mapping pattern="DESCRIPTION" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="input" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="golden" type="PLAIN_TEXT" />
