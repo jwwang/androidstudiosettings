@@ -5,7 +5,8 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1767752138753">explain this file</historyEntry>
+        <historyEntry timestamp="1767796810151">retry and only extract the code in the &quot;if (retrievalPostFilterResponse != null &amp;&amp; postFilterErrorCode == null)&quot; branch</historyEntry>
+        <historyEntry timestamp="1767796733246">extract the selected code to a function for reuse</historyEntry>
       </list>
     </option>
   </component>
