@@ -5,8 +5,8 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1767796810151">retry and only extract the code in the &quot;if (retrievalPostFilterResponse != null &amp;&amp; postFilterErrorCode == null)&quot; branch</historyEntry>
-        <historyEntry timestamp="1767796733246">extract the selected code to a function for reuse</historyEntry>
+        <historyEntry timestamp="1767797380670">document the executeProducer function</historyEntry>
+        <historyEntry timestamp="1767797300022">document the MagicRecallRetrievalAgentV2Impl class</historyEntry>
       </list>
     </option>
   </component>
