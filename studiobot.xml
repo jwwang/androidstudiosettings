@@ -3,11 +3,5 @@
     <option name="contextSharingModeV2" value="AlwaysShare" />
     <option name="enableCodeCompletion" value="false" />
     <option name="onboardedVersion" value="3" />
-    <option name="queryHistory">
-      <list>
-        <historyEntry timestamp="1767797380670">document the executeProducer function</historyEntry>
-        <historyEntry timestamp="1767797300022">document the MagicRecallRetrievalAgentV2Impl class</historyEntry>
-      </list>
-    </option>
   </component>
 </application>
