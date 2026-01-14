@@ -3,14 +3,5 @@
     <option name="contextSharingModeV2" value="AlwaysShare" />
     <option name="enableCodeCompletion" value="false" />
     <option name="onboardedVersion" value="3" />
-    <option name="queryHistory">
-      <list>
-        <historyEntry timestamp="1768266038023">How about the memoryId field of MemoryRelatedInfo?</historyEntry>
-        <historyEntry timestamp="1768265989788">How about the memoryDecayRate field of MemoryRelatedInfo?</historyEntry>
-        <historyEntry timestamp="1768265910765">trace the funciton and find out which fields of MemoryRelatedInfo are accessed directly or indirectly by this function</historyEntry>
-        <historyEntry timestamp="1768265759624">which fields in MemorySearchResponse are accessed directly or indirectly by this function</historyEntry>
-        <historyEntry timestamp="1768265723748">explain the getPersonalContextResult() function</historyEntry>
-      </list>
-    </option>
   </component>
 </application>
