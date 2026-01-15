@@ -3,5 +3,11 @@
     <option name="contextSharingModeV2" value="AlwaysShare" />
     <option name="enableCodeCompletion" value="false" />
     <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1768439246051">explain the MemoryContainerUpdateDao class</historyEntry>
+        <historyEntry timestamp="1768438960050">explain the indexMemoryContainer() function</historyEntry>
+      </list>
+    </option>
   </component>
 </application>
