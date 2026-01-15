@@ -5,6 +5,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1768440233914">explain the 'ocrContent' field</historyEntry>
         <historyEntry timestamp="1768439246051">explain the MemoryContainerUpdateDao class</historyEntry>
         <historyEntry timestamp="1768438960050">explain the indexMemoryContainer() function</historyEntry>
       </list>
