@@ -8,10 +8,28 @@
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="EditorBackwardParagraph">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="EditorForwardParagraph">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="EditorMatchBrace">
+    <keyboard-shortcut first-keystroke="ctrl 5" />
+  </action>
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
+  <action id="EditorScrollToCenter" />
+  <action id="FileChooser.TogglePathBar" />
   <action id="FindInPath" />
+  <action id="GotoBookmark5" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NextDiff">
@@ -26,6 +44,7 @@
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="Print" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
   <action id="StepOut">
@@ -33,11 +52,15 @@
   </action>
   <action id="UpdateRunningApplication" />
   <action id="UsageView.ShowRecentFindUsages" />
+  <action id="Vcs.ShowMessageHistory" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="android.device.power.button" />
   <action id="android.device.screen.record" />
+  <action id="android.device.sleep" />
+  <action id="android.streaming.xr.passthrough" />
 </keymap>
