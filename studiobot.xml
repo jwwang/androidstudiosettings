@@ -3,16 +3,5 @@
     <option name="contextSharingModeV2" value="AlwaysShare" />
     <option name="enableCodeCompletion" value="false" />
     <option name="onboardedVersion" value="3" />
-    <option name="queryHistory">
-      <list>
-        <historyEntry timestamp="1768618809902">yes, all of them</historyEntry>
-        <historyEntry timestamp="1768618767943">complete this build file for all files under the same folder</historyEntry>
-        <historyEntry timestamp="1768618726029">complete this build file</historyEntry>
-        <historyEntry timestamp="1768618692941">what does 'deadline' mean</historyEntry>
-        <historyEntry timestamp="1768618540641">how to change the code when the function takes no input</historyEntry>
-        <historyEntry timestamp="1768618518807">explain the GetEmbeddingModelName function</historyEntry>
-        <historyEntry timestamp="1768618504591">explain this file</historyEntry>
-      </list>
-    </option>
   </component>
 </application>
