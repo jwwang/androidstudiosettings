@@ -43,6 +43,9 @@
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift ctrl insert" />
   </action>
@@ -58,6 +61,8 @@
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="shift f8" />
   </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UpdateRunningApplication" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ShowMessageHistory" />
