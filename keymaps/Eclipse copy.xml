@@ -25,6 +25,9 @@
   <action id="EditorScrollToCenter" />
   <action id="FileChooser.TogglePathBar" />
   <action id="FindInPath" />
+  <action id="FindSelectionInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
   <action id="GotoBookmark5" />
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
@@ -47,6 +50,9 @@
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="Print" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
   <action id="StepOut">
