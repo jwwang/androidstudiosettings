@@ -3,5 +3,10 @@
     <option name="contextSharingModeV2" value="AlwaysShare" />
     <option name="enableCodeCompletion" value="false" />
     <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1768734420312">what does 'features.field_presence' mean in this file</historyEntry>
+      </list>
+    </option>
   </component>
 </application>
