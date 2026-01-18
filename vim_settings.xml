@@ -54,8 +54,8 @@
   <component name="VimSettings">
     <state version="7" enabled="true" />
     <notifications>
-      <idea-join enabled="false" />
-      <idea-put enabled="false" />
+      <idea-join enabled="true" />
+      <idea-put enabled="true" />
       <was-automatically-subscribed-to-eap enabled="false" />
       <first-ideavim-version value="2.27.2" />
     </notifications>
