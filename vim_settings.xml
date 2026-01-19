@@ -58,6 +58,9 @@
       <shortcut-conflict owner="ide">
         <text encoding="base64">Y3RybCBwcmVzc2VkIE9QRU5fQlJBQ0tFVA==</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">c2hpZnQgcHJlc3NlZCBFTlRFUg==</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text encoding="base64">Y3RybCBwcmVzc2VkIFI=</text>
       </shortcut-conflict>
