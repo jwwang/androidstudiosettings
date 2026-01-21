@@ -2,9 +2,13 @@
   <action id="ActivateTransformCodeToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="Android.SyncProject" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Blaze.OpenInCodeSearch">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
@@ -45,6 +49,9 @@
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift ctrl insert" />
