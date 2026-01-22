@@ -3,5 +3,11 @@
     <option name="contextSharingModeV2" value="AlwaysShare" />
     <option name="enableCodeCompletion" value="false" />
     <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1769123443549">how to fix unresolved references like R.raw.smoke_v4_query_sets in this file? you might need to modify the intellij project settings</historyEntry>
+        <historyEntry timestamp="1769123334633">explain this file</historyEntry>
+      </list>
+    </option>
   </component>
 </application>
