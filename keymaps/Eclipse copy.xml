@@ -6,6 +6,9 @@
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Blaze.OpenCorrespondingBuildFile">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
   <action id="Blaze.OpenInCodeSearch">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
@@ -70,6 +73,9 @@
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="shift f8" />
   </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UpdateRunningApplication" />
@@ -81,6 +87,7 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="android.device.back.button" />
   <action id="android.device.power.button" />
   <action id="android.device.screen.record" />
   <action id="android.device.sleep" />
