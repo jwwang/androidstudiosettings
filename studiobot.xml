@@ -5,7 +5,8 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1769871982355">explain this file</historyEntry>
+        <historyEntry timestamp="1770013672063">explain how MemoryContainerDao.getContainerWithAllFields will build the return value</historyEntry>
+        <historyEntry timestamp="1770013449915">explain the MemoryContainerWithAllFields class</historyEntry>
       </list>
     </option>
   </component>
