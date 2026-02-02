@@ -5,8 +5,8 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1770013672063">explain how MemoryContainerDao.getContainerWithAllFields will build the return value</historyEntry>
-        <historyEntry timestamp="1770013449915">explain the MemoryContainerWithAllFields class</historyEntry>
+        <historyEntry timestamp="1770014367786">so this function will involve 2 SQL queries under the hood?</historyEntry>
+        <historyEntry timestamp="1770014298815">explain the getRemindersWithContainer funciton for how its return value is built</historyEntry>
       </list>
     </option>
   </component>
