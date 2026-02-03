@@ -5,8 +5,10 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1770014367786">so this function will involve 2 SQL queries under the hood?</historyEntry>
-        <historyEntry timestamp="1770014298815">explain the getRemindersWithContainer funciton for how its return value is built</historyEntry>
+        <historyEntry timestamp="1770104198826">think again considering this flow comes from a datastore</historyEntry>
+        <historyEntry timestamp="1770104162243">could it reutrn null when call firstOrNull() on this flow?</historyEntry>
+        <historyEntry timestamp="1770104107827">what is the value of ragMetadataDataStore.data?</historyEntry>
+        <historyEntry timestamp="1770104076844">explain the getCurrentEmbeddingModelVersion function</historyEntry>
       </list>
     </option>
   </component>
