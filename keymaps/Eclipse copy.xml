@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivateStudioBotToolWindow">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="ActivateTransformCodeToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
@@ -15,6 +18,7 @@
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="CodesearchSearchAction" />
   <action id="EditorBackwardParagraph">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
