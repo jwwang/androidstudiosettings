@@ -5,6 +5,9 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1770279544762">after checking MemoryContainerStorageAdapter class, find out the missing code in ReminderStorageAdapter</historyEntry>
+        <historyEntry timestamp="1770279502949">now check MemoryContainerStorageAdapter.kt in the same folder</historyEntry>
+        <historyEntry timestamp="1770279478807">explain this file</historyEntry>
         <historyEntry timestamp="1770278585521">after seeing MemoryContainerDocument, find out the msising code in ReminderDocument</historyEntry>
         <historyEntry timestamp="1770278534971">now check MemoryContainerDocument.kt in the same folder</historyEntry>
         <historyEntry timestamp="1770278499679">explain this file</historyEntry>
