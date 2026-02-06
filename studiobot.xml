@@ -5,6 +5,9 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1770352187097">i want the injection of MemoryDatabase, how to do that</historyEntry>
+        <historyEntry timestamp="1770352141783">with this configuration, how to get an instance of MemoryDatabase</historyEntry>
+        <historyEntry timestamp="1770352108219">now explain this file</historyEntry>
         <historyEntry timestamp="1770351749669">how to get an instance of MemoryDatabase</historyEntry>
         <historyEntry timestamp="1770351733252">explain this file</historyEntry>
       </list>
