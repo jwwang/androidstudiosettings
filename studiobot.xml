@@ -5,11 +5,8 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1770340715792">This file should containe tests for ReminderDocument. Please reference MemoryContainerDocumentTest in the same folder to complete the unit test code</historyEntry>
-        <historyEntry timestamp="1770340648803">check agian! how many test functions are there in this file?</historyEntry>
-        <historyEntry timestamp="1770340595411">now explain this file: /google/src/cloud/wangchun/fig-tiktok/google3/javatests/com/google/android/apps/pixel/agent/document/ReminderDocumentTest.kt</historyEntry>
-        <historyEntry timestamp="1770340578369">explain this file: /google/src/cloud/wangchun/fig-tiktok/google3/java/com/google/android/apps/pixel/agent/document/ReminderDocument.kt</historyEntry>
-        <historyEntry timestamp="1770340501778">explain this file</historyEntry>
+        <historyEntry timestamp="1770351749669">how to get an instance of MemoryDatabase</historyEntry>
+        <historyEntry timestamp="1770351733252">explain this file</historyEntry>
       </list>
     </option>
   </component>
