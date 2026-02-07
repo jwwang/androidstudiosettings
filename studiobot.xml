@@ -5,11 +5,11 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1770423498591">there are build errors with the 'module' target, try to fix it</historyEntry>
-        <historyEntry timestamp="1770423318125">I mean this file, try again</historyEntry>
-        <historyEntry timestamp="1770423296106">now explain this file</historyEntry>
-        <historyEntry timestamp="1770423216347">rewrite this file to provide bindings for MemoryDatabase without using Tiktok's @BindRoomDatabaseDaos</historyEntry>
-        <historyEntry timestamp="1770423142234">explain this file</historyEntry>
+        <historyEntry timestamp="1770426874974">just assume id is 123, title is &quot;some title&quot; and summary is &quot;some summary&quot;</historyEntry>
+        <historyEntry timestamp="1770426829362">now fix the testDatabase function, say I want to update the title and summary fields for a given container id</historyEntry>
+        <historyEntry timestamp="1770426780020">check the class in /google/src/cloud/wangchun/fig-tiktok/google3/java/com/google/android/apps/pixel/agent/memory/database/MemoryContainerEntity.kt</historyEntry>
+        <historyEntry timestamp="1770426712053">explain the testDatabase function</historyEntry>
+        <historyEntry timestamp="1770426698210">explain this file</historyEntry>
       </list>
     </option>
   </component>
