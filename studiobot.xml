@@ -5,11 +5,11 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1770352187097">i want the injection of MemoryDatabase, how to do that</historyEntry>
-        <historyEntry timestamp="1770352141783">with this configuration, how to get an instance of MemoryDatabase</historyEntry>
-        <historyEntry timestamp="1770352108219">now explain this file</historyEntry>
-        <historyEntry timestamp="1770351749669">how to get an instance of MemoryDatabase</historyEntry>
-        <historyEntry timestamp="1770351733252">explain this file</historyEntry>
+        <historyEntry timestamp="1770423498591">there are build errors with the 'module' target, try to fix it</historyEntry>
+        <historyEntry timestamp="1770423318125">I mean this file, try again</historyEntry>
+        <historyEntry timestamp="1770423296106">now explain this file</historyEntry>
+        <historyEntry timestamp="1770423216347">rewrite this file to provide bindings for MemoryDatabase without using Tiktok's @BindRoomDatabaseDaos</historyEntry>
+        <historyEntry timestamp="1770423142234">explain this file</historyEntry>
       </list>
     </option>
   </component>
