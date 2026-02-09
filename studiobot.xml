@@ -5,14 +5,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1770471149064">Yes</historyEntry>
-        <historyEntry timestamp="1770471121384">Now come back to MemoryContainerDocumentTest. After check the implementation of the update function, any more tests to add for the update function as far as code coverage is concerned?</historyEntry>
-        <historyEntry timestamp="1770471023874">check /google/src/cloud/wangchun/fig-tiktok/google3/java/com/google/android/apps/pixel/psi/common/rag/agent/DocumentManagerImpl.kt for how DocumentManager.update is implemented</historyEntry>
-        <historyEntry timestamp="1770470777867">Yes. Please go ahead.</historyEntry>
-        <historyEntry timestamp="1770470749100">Now come back to MemoryContainerDocumentTest. Is there anything missing after checking DocumentManager APIs?</historyEntry>
-        <historyEntry timestamp="1770470637104">explain its update function</historyEntry>
-        <historyEntry timestamp="1770470618591">where is DocumnetManager defined?</historyEntry>
-        <historyEntry timestamp="1770470595379">explain this file</historyEntry>
+        <historyEntry timestamp="1770618925110">Count the number of fields in MemoryContainerEntity</historyEntry>
       </list>
     </option>
   </component>
