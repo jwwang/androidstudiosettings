@@ -5,6 +5,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1770692581960">explain the MemoryContainerCrossCollectionRefEntity class</historyEntry>
         <historyEntry timestamp="1770687140412">now can you add kdoc to the update function?</historyEntry>
         <historyEntry timestamp="1770687100020">check this file: /google/src/cloud/wangchun/fig-tiktok/google3/java/com/google/android/apps/pixel/psi/common/rag/agent/DocumentManagerImpl.kt</historyEntry>
         <historyEntry timestamp="1770687069664">where is its implementation</historyEntry>
