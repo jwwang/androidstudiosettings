@@ -5,13 +5,10 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1770692581960">explain the MemoryContainerCrossCollectionRefEntity class</historyEntry>
-        <historyEntry timestamp="1770687140412">now can you add kdoc to the update function?</historyEntry>
-        <historyEntry timestamp="1770687100020">check this file: /google/src/cloud/wangchun/fig-tiktok/google3/java/com/google/android/apps/pixel/psi/common/rag/agent/DocumentManagerImpl.kt</historyEntry>
-        <historyEntry timestamp="1770687069664">where is its implementation</historyEntry>
-        <historyEntry timestamp="1770687042899">explain the update funtion</historyEntry>
-        <historyEntry timestamp="1770687033473">explain this file</historyEntry>
-        <historyEntry timestamp="1770618925110">Count the number of fields in MemoryContainerEntity</historyEntry>
+        <historyEntry timestamp="1770719686068">now come back to RoomDslHandlerTest. can you add unit tests after checking the implementation of RoomDslHandler?</historyEntry>
+        <historyEntry timestamp="1770719635085">explain RoomDslHandler</historyEntry>
+        <historyEntry timestamp="1770719611421">where is RoomDslHandler defined?</historyEntry>
+        <historyEntry timestamp="1770719588967">explain the file</historyEntry>
       </list>
     </option>
   </component>
