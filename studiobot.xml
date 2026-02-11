@@ -5,11 +5,12 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1770731796583">there is no 'QueryField'. please fix the error</historyEntry>
-        <historyEntry timestamp="1770719686068">now come back to RoomDslHandlerTest. can you add unit tests after checking the implementation of RoomDslHandler?</historyEntry>
-        <historyEntry timestamp="1770719635085">explain RoomDslHandler</historyEntry>
-        <historyEntry timestamp="1770719611421">where is RoomDslHandler defined?</historyEntry>
-        <historyEntry timestamp="1770719588967">explain the file</historyEntry>
+        <historyEntry timestamp="1770793782485">can you complete the tests after referencing MemoryContainerDocumentTest?</historyEntry>
+        <historyEntry timestamp="1770793726708">now check /google/src/cloud/wangchun/fig-tiktok/google3/javatests/com/google/android/apps/pixel/agent/document/CollectionDocumentTest.kt</historyEntry>
+        <historyEntry timestamp="1770793705417">also check its dependent classes:
+/google/src/cloud/wangchun/fig-tiktok/google3/java/com/google/android/apps/pixel/psi/common/rag/agent/DocumentManager.kt</historyEntry>
+        <historyEntry timestamp="1770793637583">yes</historyEntry>
+        <historyEntry timestamp="1770793622528">explain /google/src/cloud/wangchun/fig-tiktok/google3/javatests/com/google/android/apps/pixel/agent/document/MemoryContainerDocumentTest.kt</historyEntry>
       </list>
     </option>
   </component>
