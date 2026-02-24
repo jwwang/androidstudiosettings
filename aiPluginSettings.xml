@@ -1,6 +1,5 @@
 <application>
   <component name="AiPluginSettings">
-    <option name="composeEnabled" value="true" />
     <option name="gcpProjectByEmail">
       <map>
         <entry key="wangchun@google.com">
@@ -14,7 +13,7 @@
       </map>
     </option>
     <option name="gotItToolTipsShown" value="true" />
-    <option name="lastLicenseNotification" value="1752588213" />
+    <option name="lastLicenseNotification" value="1771898516" />
     <option name="lastLoggedInEmail" value="wangchun@google.com" />
   </component>
 </application>

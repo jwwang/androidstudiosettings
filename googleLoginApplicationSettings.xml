@@ -6,8 +6,9 @@
         <entry key="wangchun@google.com">
           <value>
             <set>
-              <option value="GiAS" />
+              <option value="Notifications" />
               <option value="User Info" />
+              <option value="GiAS" />
             </set>
           </value>
         </entry>
