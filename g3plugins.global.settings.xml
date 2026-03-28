@@ -12,6 +12,7 @@
       <entry key="DisableOverridingIdeShortcuts" value="true" />
       <entry key="DisableSafeWrite" value="true" />
       <entry key="DisableSystemNotifications" value="true" />
+      <entry key="EnableMcpServerSettingsOnStartup" value="true" />
       <entry key="EnableProtoeditorPlugin" value="true" />
       <entry key="EnableUseInstanceOfOnEqualsCodeGeneration" value="true" />
       <entry key="IdeaMaxIntellisenseFilesize" value="true" />
