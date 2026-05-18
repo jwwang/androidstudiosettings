@@ -102,9 +102,7 @@
           </root>
         </classPath>
         <javadocPath>
-          <root type="composite">
-            <root url="https://docs.oracle.com/en/java/javase/21/docs/api/" type="simple" />
-          </root>
+          <root type="composite" />
         </javadocPath>
         <sourcePath>
           <root type="composite" />
