@@ -3,7 +3,10 @@
     <version>1</version>
   </component>
   <component name="whatsNew">
-    <shownVersion>2026.1.2rc9</shownVersion>
+    <shownVersion>2026.1.3rc5</shownVersion>
+  </component>
+  <component name="whatsNewAssistantAswb">
+    <shownVersion>2026.1.3.5</shownVersion>
   </component>
   <component name="whatsNewAswb">
     <shownVersion>2024.03.29.0.3</shownVersion>
